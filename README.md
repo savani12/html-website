@@ -1,5 +1,5 @@
 # html-website
-A Dance Studio Website using only HTML (No CSS)
+## A Dance Studio Website using only HTML (No CSS)
 
 Inspired by https://www.nrityashakti.com/
 
