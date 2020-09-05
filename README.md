@@ -9,4 +9,4 @@ The website includes
 1. A home page (synergy.html)
 2. An introduction to various dance styles offered by the studio (styles.html, styles1.html, styles2.html)
 3. Weekly schedule (classes.html)
-4. An intorduction to the faculty members of the studio (faculty.html)
+4. An introduction to the faculty members of the studio (faculty.html)
